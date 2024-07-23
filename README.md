@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Business Intelligence products for the Event Industry
 - 🌱 I’m currently learning Spark to uplevel my data transformation skills
 - 💬 Ask me about Tableau and SQL, I love to help and/or brainstorm on those topics
-- ❤ Interests: Sports (Soccer ⚽, Basketball 🏀), cooking 👨‍🍳 and travelling ✈
+- Interests: Sports (Soccer ⚽, Basketball 🏀), cooking 👨‍🍳 and travelling ✈
 - ⚡ Fun fact: I once participated to the Le Mans 24h ... of roller skating
